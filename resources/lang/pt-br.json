@@ -1,0 +1,14 @@
+{
+	"Jobs": "Serviços",
+	"New Job": "Novo Serviço",
+	"CREATE A NEW JOB": "CRIAR NOVO SERVIÇO PRESTADO",
+	"Clear Form":  "Limpar Formulário",
+	"All field except observation are required.": "Todos os campos exceto observação são obrigatórios.",
+	"Select a Client": "Selecione o Cliente",
+	"Select a Service": "Selecione o Serviço",
+	"Select a Payment Method": "Selecione a Forma de Pagamento",
+	"Total Cost": "Valor do Serviço",
+	"Accomplished at date and time": "Realizando no dia e hora",
+	"Observation": "Observação",
+	"SAVE": "SALVAR"
+}
